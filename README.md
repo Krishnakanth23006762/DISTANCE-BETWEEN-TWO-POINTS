@@ -29,4 +29,4 @@ print(f"{distance:.2f}")
 
 
 ### RESULT:
-Thus the didtance between two points is found.
+Thus the distance between two points is found.
