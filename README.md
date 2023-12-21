@@ -25,7 +25,8 @@ distance = math.sqrt((x2 - x1)**2 + (y2 - y1)**2)
 print(f"{distance:.2f}") 
 ```
 ### OUTPUT:
-![Screenshot 2023-10-24 164245](https://github.com/Krishnakanth23006762/DISTANCE-BETWEEN-TWO-POINTS/assets/138849446/f70ebb0c-68ec-40b6-9f2e-fb8a79fbb1c8)
+
+![image](https://github.com/Krishnakanth23006762/DISTANCE-BETWEEN-TWO-POINTS/assets/138849446/a41e3ce2-5a81-4541-8657-cd6ea1da4136)
 
 
 ### RESULT:
